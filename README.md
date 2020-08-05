@@ -1,4 +1,6 @@
 # Machine Learning Competitions
+- [Introduction](#introduction)
+- [Completed Competition](#completed competition)
 
 ## Introduction
 
